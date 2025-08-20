@@ -1,4 +1,5 @@
-[  {
+[
+  {
     "id": "1",
     "sku": "asdf147",
     "name": "Barka Mini Table",
@@ -7,25 +8,24 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
+    "category": ["meja"],  
     "tag": ["meja"],
     "stock": 6,
     "image": [
       "/assets/meja/Barka Mini Table-1.jpg",
       "/assets/meja/Barka Mini Table-2.jpg",
       "/assets/meja/Barka Mini Table-3.jpg",
-
       "/assets/meja/Barka Mini Table-4.jpg",
-
       "/assets/meja/Barka Mini Table-5.jpg",
       "/assets/meja/Barka Mini Table-6.jpg",
-
       "/assets/meja/Barka Mini Table-7.jpg"
-
-      
     ],
     "shortDescription": "meja Keren dengan design Sliding",
-    "fullDescription": "Cocok untuk display vas bunga"
+    "fullDescription": "Cocok untuk display vas bunga",
+    "meja": true,
+    "lemari": false,
+    "kursi": false,
+    "aksesoris": false
   },
   {
     "id": "2",
@@ -36,26 +36,26 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
+    "category": ["meja"],  
     "tag": ["meja"],
     "stock": 6,
     "image": [
       "/assets/meja/Damai Side Table-1.jpg",
       "/assets/meja/Damai Side Table-2.jpg",
       "/assets/meja/Damai Side Table-3.jpg",
-
       "/assets/meja/Damai Side Table-4.jpg",
-
       "/assets/meja/Damai Side Table-5.jpg",
       "/assets/meja/Damai Side Table-6.jpg",
-
       "/assets/meja/Damai Side Table-7.jpg"
-
-      
     ],
     "shortDescription": "meja Keren dengan design Sliding",
-    "fullDescription": "Cocok untuk display vas bunga"
-  },{
+    "fullDescription": "Cocok untuk display vas bunga",
+    "meja": true,
+    "lemari": false,
+    "kursi": false,
+    "aksesoris": false
+  },
+  {
     "id": "3",
     "sku": "asdf147",
     "name": "Lila Sideboard",
@@ -64,27 +64,26 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
+    "category": ["lemari"],  
     "tag": ["lemari"],
     "stock": 6,
     "image": [
       "/assets/lemari/Lila Sideboard-1.jpg",
       "/assets/lemari/Lila Sideboard-2.jpg",
       "/assets/lemari/Lila Sideboard-3.jpg",
-
       "/assets/lemari/Lila Sideboard-4.jpg",
-
       "/assets/lemari/Lila Sideboard-5.jpg",
       "/assets/lemari/Lila Sideboard-6.jpg",
-
       "/assets/lemari/Lila Sideboard-7.jpg"
-
-      
     ],
     "shortDescription": "Lemari Keren dengan design Sliding",
-    "fullDescription": "Cocok untuk display vas bunga"
+    "fullDescription": "Cocok untuk display vas bunga",
+    "meja": false,
+    "lemari": true,
+    "kursi": false,
+    "aksesoris": false
   },
-{
+  {
     "id": "4",
     "sku": "asdf147",
     "name": "Jiva",
@@ -93,54 +92,51 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
+    "category": ["lemari"],  
     "tag": ["lemari"],
     "stock": 6,
     "image": [
       "/assets/lemari/Jiva-1.jpg",
       "/assets/lemari/Jiva-2.jpg",
       "/assets/lemari/Jiva-3.jpg",
-
       "/assets/lemari/Jiva-4.jpg",
-
       "/assets/lemari/Jiva-5.jpg",
       "/assets/lemari/Jiva-6.jpg",
-
       "/assets/lemari/Jiva-7.jpg"
-
-      
     ],
     "shortDescription": "Lemari Keren dengan design Sliding",
-    "fullDescription": "Cocok untuk display vas bunga"
+    "fullDescription": "Cocok untuk display vas bunga",
+    "meja": false,
+    "lemari": true,
+    "kursi": false,
+    "aksesoris": false
   },
-  
   {
     "id": "5",
     "sku": "asdf147",
     "name": "Glorya Sideboard",
     "price": 32.5,
     "discount": 10,
-    "new": false,
+    "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
+    "category": ["lemari"],  
     "tag": ["lemari"],
     "stock": 6,
     "image": [
       "/assets/lemari/Glorya Sideboard-1.jpg",
       "/assets/lemari/Glorya Sideboard-2.jpg",
       "/assets/lemari/Glorya Sideboard-3.jpg",
-
       "/assets/lemari/Glorya Sideboard-4.jpg",
-
       "/assets/lemari/Glorya Sideboard-5.jpg",
       "/assets/lemari/Glorya Sideboard-6.jpg",
-
       "/assets/lemari/Glorya Sideboard-7.jpg"
-
-      
     ],
     "shortDescription": "Lemari Keren dengan design Sliding",
-    "fullDescription": "Cocok untuk display vas bunga"
-  }]
-  
+    "fullDescription": "Cocok untuk display vas bunga",
+    "meja": false,
+    "lemari": true,
+    "kursi": false,
+    "aksesoris": false
+  }
+]

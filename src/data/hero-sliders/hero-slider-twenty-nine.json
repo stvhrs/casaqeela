@@ -1,25 +1,37 @@
 [
   
- 
+ {
+    "id": 2,
+    "title": "Casaqeela <br /> Collection <span>2020</span>",
+    "subtitle": "Sale up to <span>30% off</span>",
+    "image": "/assets/1.mp4",
+    "url": "/shop-grid-standard"
+  },
   {
     "id": 2,
-    "title": "Furniture <br /> Collection <span>2020</span>",
+    "title": "Casaqeela <br /> Collection <span>2020</span>",
     "subtitle": "Sale up to <span>30% off</span>",
-    "image": "/assets/Banner-1.png",
+    "image": "/assets/Banner1.png",
     "url": "/shop-grid-standard"
   },
    {
     "id": 2,
-    "title": "Furniture <br /> Collection <span>2020</span>",
+    "title": "Casaqeela <br /> Collection <span>2020</span>",
     "subtitle": "Sale up to <span>30% off</span>",
-    "image": "/assets/Banner-2.png",
+    "image": "/assets/Banner2.png",
     "url": "/shop-grid-standard"
   },
    {
     "id": 2,
-    "title": "Furniture <br /> Collection <span>2020</span>",
+    "title": "Casaqeela <br /> Collection <span>2020</span>",
     "subtitle": "Sale up to <span>30% off</span>",
-    "image": "/assets/Banner-3.png",
+    "image": "/assets/Banner3.png",
+    "url": "/shop-grid-standard"
+  }, {
+    "id": 2,
+    "title": "Casaqeela <br /> Collection <span>2020</span>",
+    "subtitle": "Sale up to <span>30% off</span>",
+    "image": "/assets/Banner4.png",
     "url": "/shop-grid-standard"
   }
 ]

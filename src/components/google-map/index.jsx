@@ -9,10 +9,16 @@ const GoogleMap = ({
 }) => {
     return (
         <div style={{ height: '100%', width: '100%' }}>
-            <GoogleMapReact
-                bootstrapURLKeys={{ key: "AIzaSyBNVGKvHr8B_iQqWvQmW_xvQ02AjZhZBMM" }}
-                defaultCenter={{lat, lng}}
-                defaultZoom={zoom}
+            <GoogleMapReact 
+             options={{
+            zoomControl: false,
+            streetViewControl: false,
+            mapTypeControl: false,
+            fullscreenControl: false,
+          }}
+                bootstrapURLKeys={{ key: "AIzaSyBNVGKvHr8B_iQqWvQmW_xvQ02AjZhZBMM", libraries: ['places'] }}
+                defaultCenter={{ lat, lng }}
+                defaultZoom={zoom} 
             >
                 <Marker
                     lat={lat}
@@ -28,7 +34,7 @@ GoogleMap.propTypes = {
     lat: PropTypes.number.isRequired,
     lng: PropTypes.number.isRequired,
     zoom: PropTypes.number,
-    options: PropTypes.shape({}) 
+    options: PropTypes.shape({})
 }
 
 GoogleMap.defaultProps = {
@@ -39,4 +45,4 @@ GoogleMap.defaultProps = {
 
 export default GoogleMap;
 
-const Marker = ({ text }) => <div className="map-marker"><img src={`${process.env.PUBLIC_URL + "/assets/img/icon-img/2.png"}`} alt={text}/></div>;
+const Marker = ({ text }) => <div className="map-marker"><img src={`${process.env.PUBLIC_URL + "/assets/img/icon-img/2.png"}`} alt={text} /></div>;

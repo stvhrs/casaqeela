@@ -32,7 +32,7 @@ const HeaderOne = ({
   };
 
   return (
-    <header className={clsx("header-area clearfix", headerBgClass, headerPositionClass)}>
+    <header style={{ backgroundColor: 'white' }}className={clsx("header-area clearfix", headerBgClass, headerPositionClass)}>
       <div
         className={clsx(
           "header-top-area", 
@@ -53,7 +53,7 @@ const HeaderOne = ({
           scroll > headerTop && "stick"
         )}
       >
-        <div className={layout === "container-fluid" ? layout : "container"}>
+        <div className={layout === "container-fluid" ? layout : "container" }>
           <div className="row">
             <div className="col-xl-2 col-lg-2 col-md-6 col-4">
               {/* header logo */}

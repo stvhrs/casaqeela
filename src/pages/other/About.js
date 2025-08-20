@@ -1,5 +1,5 @@
-import { Fragment } from "react"; 
-import { useLocation } from "react-router-dom"; 
+import { Fragment } from "react";
+import { useLocation } from "react-router-dom";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
@@ -13,20 +13,26 @@ const About = () => {
       <SEO
         titleTemplate="About us"
         description="Casaqeela"
-      /> 
+      />
       <LayoutOne >
         {/* breadcrumb */}
-        <Breadcrumb 
+        <Breadcrumb
           pages={[
             { label: "Home", path: process.env.PUBLIC_URL + "/" },
             { label: "About us", path: process.env.PUBLIC_URL + pathname }
           ]}
         />
-        
-      
 
+
+      <div class="image-gallery">
+  <img src="/assets/About Us-1.jpg" alt="Story" />
+  <img src="/assets/About Us-2.jpg" alt="Story" />
+  <img src="/assets/About Us-3.jpg" alt="Story" />
+  <img src="/assets/About Us-4.jpg" alt="Story" />
+</div>
         {/* story section */}
         <div className="story-container">
+{/* 
           <div className="text-container">
             <h2>Our story</h2>
             <p>
@@ -39,7 +45,7 @@ const About = () => {
           </div>
           <div className="image-container">
             <img src="/assets/about.jpg" alt="Story" />
-          </div>
+          </div> */}
         </div>
       </LayoutOne>
     </Fragment>

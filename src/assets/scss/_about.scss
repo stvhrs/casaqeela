@@ -10,6 +10,13 @@
   padding: 20px;
   text-align: left; /* Align text to the left */
 }
+/* Make images responsive */
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
 
 /* Styling for text */
 .text-container {

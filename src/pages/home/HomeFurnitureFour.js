@@ -9,13 +9,14 @@ import VideoPopupTwo from "../../components/video-popup/VideoPopupTwo";
 import FeatureIconSeven from "../../wrappers/feature-icon/FeatureIconSeven";
 import CategoryFiveGrid from "../../wrappers/category/CategoryFiveGrid";
 import HeroSliderTwentyNine from "../../wrappers/hero-slider/HeroSliderTwentyNine";
+import VideoPlayer from '../../components/VideoPlayer';  // Import the VideoPlayer component
 
 const HomeFurnitureFour = () => {
   return (
     <Fragment>
       <SEO
         titleTemplate="Home Living"
-        description="Furniture home of casaqeela react minimalist eCommerce template."
+        description="Casaqeela Furniture"
       />
       <LayoutOne
         headerContainerClass="container-fluid"
@@ -23,14 +24,16 @@ const HomeFurnitureFour = () => {
         headerPositionClass="header-absolute"
       >
         {/* hero slider */}
+
         <HeroSliderTwentyNine />
         {/* category grid */}
         <CategoryFiveGrid spaceBottomClass="pb-70" />
 
         {/* feature icon */}
         <FeatureIconSeven spaceBottomClass="pb-70" />
+        <VideoPlayer/>
         {/* video popup */}
-        <VideoPopupTwo />
+        {/* <VideoPopupTwo /> */}
         {/* tab product */}
         <TabProductNineteen
           spaceTopClass="pt-95"
@@ -38,17 +41,7 @@ const HomeFurnitureFour = () => {
           category="furniture"
         />
         {/* countdown */}
-        <CountDownFive
-          spaceTopClass="pt-115"
-          spaceBottomClass="pb-115"
-          bgImg="/assets/img/bg/bg-6.jpg"
-          image="/assets/img/banner/deal-9.png"
-          dateTime="November 13, 2023 12:12:00"
-        />
-        {/* brand logo slider */}
-        <BrandLogoSliderOne spaceBottomClass="pb-95" spaceTopClass="pt-100" />
-        {/* image slider */}
-        <ImageSliderTwo />
+      
       </LayoutOne>
     </Fragment>
   );

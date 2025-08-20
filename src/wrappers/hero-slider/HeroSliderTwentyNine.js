@@ -14,10 +14,9 @@ const params = {
   navigation: true,
   autoHeight: false
 };
-
 const HeroSliderTwentyNine = () => {
   return (
-    <div className="slider-area">
+    <div className="slider-area" style={{ paddingTop: '0px' }}>
       <div className="slider-active nav-style-1">
         {sliderData && (
           <Swiper options={params}>

@@ -23,55 +23,69 @@ const TabProductNineteen = ({
           borderClass="bottom-border"
           spaceClass="mb-30"
         />
-        <Tab.Container defaultActiveKey="bestSeller">
+        <Tab.Container defaultActiveKey="meja">
           <Nav
             variant="pills"
             className={clsx("product-tab-list-6 justify-content-center mb-60", productTabClass)}
           >
             <Nav.Item>
-              <Nav.Link eventKey="newArrival">
-                <h4>New Arrivals</h4>
+              <Nav.Link eventKey="meja">
+                <h4>Meja</h4>
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="bestSeller">
-                <h4>Best Sellers</h4>
+              <Nav.Link eventKey="kursi">
+                <h4>Kursi</h4>
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="saleItems">
-                <h4>Sale Items</h4>
+              <Nav.Link eventKey="aksesoris">
+                <h4>Aksesoris</h4>
+              </Nav.Link>
+            </Nav.Item> <Nav.Item>
+              <Nav.Link eventKey="lemari">
+                <h4>Lemari</h4>
               </Nav.Link>
             </Nav.Item>
           </Nav>
           <Tab.Content>
-            <Tab.Pane eventKey="newArrival">
+            <Tab.Pane eventKey="meja">
               <div className="row">
                 <ProductGridTen
-                  category={category}
-                  type="new"
+                  category={"meja"}
+                  type="meja"
                   limit={6}
                   spaceBottomClass="mb-25"
                   productGridStyleClass={productGridStyleClass}
                 />
               </div>
             </Tab.Pane>
-            <Tab.Pane eventKey="bestSeller">
+            <Tab.Pane eventKey="kursi">
               <div className="row">
                 <ProductGridTen
-                  category={category}
-                  type="bestSeller"
+                  category={"kursi"}
+                  type="kursi"
                   limit={6}
                   spaceBottomClass="mb-25"
                   productGridStyleClass={productGridStyleClass}
                 />
               </div>
             </Tab.Pane>
-            <Tab.Pane eventKey="saleItems">
+            <Tab.Pane eventKey="aksesoris">
               <div className="row">
                 <ProductGridTen
-                  category={category}
-                  type="saleItems"
+                  category={"aksesoris"}
+                  type="aksesoris"
+                  limit={6}
+                  spaceBottomClass="mb-25"
+                  productGridStyleClass={productGridStyleClass}
+                />
+              </div>
+            </Tab.Pane><Tab.Pane eventKey="lemari">
+              <div className="row">
+                <ProductGridTen
+                  category={"lemari"}
+                  type="lemari"
                   limit={6}
                   spaceBottomClass="mb-25"
                   productGridStyleClass={productGridStyleClass}

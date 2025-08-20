@@ -14,6 +14,7 @@ const LayoutOne = ({
   return (
     <Fragment>
       <HeaderOne
+    
         layout={headerContainerClass}
         top={headerTop}
         headerPaddingClass={headerPaddingClass}

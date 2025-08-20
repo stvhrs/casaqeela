@@ -1,0 +1,20 @@
+/* VideoPlayer.css */
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 30.25%;  /* 16:9 Aspect Ratio (height / width * 100) */
+  overflow: hidden;
+  background-color: black;
+}
+
+.video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This will crop the video to fill the container */
+  transform: translate(-50%, -50%);
+}
