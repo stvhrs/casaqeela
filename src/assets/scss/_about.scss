@@ -1,4 +1,46 @@
 /*------- 11. About style ------ */
+/* Add to your main SCSS or CSS file */
+/* story-container will be a flex container for desktop */
+.story-container {
+  display: flex;
+  flex-direction: row; /* Image and text side by side */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  gap: 20px;
+  padding: 20px;
+  text-align: left; /* Align text to the left */
+}
+
+/* Styling for text */
+.text-container {
+  max-width: 50%; /* Take up 50% width of the container */
+  text-align: left; /* Ensure text is aligned left */
+}
+
+/* Styling for image */
+.image-container img {
+  width: 100%;
+  max-width: 500px; /* Adjust max width of the image */
+  height: auto;
+}
+
+/* Mobile view: Stack the text and image */
+@media screen and (max-width: 768px) {
+  .story-container {
+    flex-direction: column; /* Stack text and image vertically */
+    text-align: center; /* Center the text on smaller screens */
+  }
+
+  .text-container {
+    max-width: 100%; /* Ensure text takes full width on mobile */
+    margin-top: 20px;
+  }
+
+  .image-container {
+    margin-top: 20px;
+  }
+}
+
 
 .welcome-content {
   h5 {

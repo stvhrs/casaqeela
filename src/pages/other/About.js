@@ -4,11 +4,6 @@ import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import SectionTitleWithText from "../../components/section-title/SectionTitleWithText";
-import BannerOne from "../../wrappers/banner/BannerOne";
-import TextGridOne from "../../wrappers/text-grid/TextGridOne";
-import FunFactOne from "../../wrappers/fun-fact/FunFactOne";
-import TeamMemberOne from "../../wrappers/team-member/TeamMemberOne";
-import BrandLogoSliderOne from "../../wrappers/brand-logo/BrandLogoSliderOne";
 
 const About = () => {
   let { pathname } = useLocation();
@@ -17,38 +12,35 @@ const About = () => {
     <Fragment>
       <SEO
         titleTemplate="About us"
-        description="About page of casaqeela react minimalist eCommerce template."
+        description="Casaqeela"
       /> 
-      <LayoutOne headerTop="visible">
+      <LayoutOne >
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[
-            {label: "Home", path: process.env.PUBLIC_URL + "/" },
-            {label: "About us", path: process.env.PUBLIC_URL + pathname }
-          ]} 
+            { label: "Home", path: process.env.PUBLIC_URL + "/" },
+            { label: "About us", path: process.env.PUBLIC_URL + pathname }
+          ]}
         />
+        
+      
 
-        {/* section title with text */}
-        <SectionTitleWithText spaceTopClass="pt-100" spaceBottomClass="pb-95" />
-
-        {/* banner */}
-        <BannerOne spaceBottomClass="pb-70" />
-
-        {/* text grid */}
-        <TextGridOne spaceBottomClass="pb-70" />
-
-        {/* fun fact */}
-        <FunFactOne
-          spaceTopClass="pt-100"
-          spaceBottomClass="pb-70"
-          bgClass="bg-gray-3"
-        />
-
-        {/* team member */}
-        <TeamMemberOne spaceTopClass="pt-95" spaceBottomClass="pb-70" />
-
-        {/* brand logo slider */}
-        <BrandLogoSliderOne spaceBottomClass="pb-70" />
+        {/* story section */}
+        <div className="story-container">
+          <div className="text-container">
+            <h2>Our story</h2>
+            <p>
+              Tikamoon was created in Lille by a small team with an
+              enterprising spirit. From the start, we wanted to manage all the
+              links in the chain so that we could offer our customers
+              high-quality and long-lasting furniture at the best possible prices.
+            </p>
+            <a href="/our-commitments">Our commitments</a>
+          </div>
+          <div className="image-container">
+            <img src="/assets/about.jpg" alt="Story" />
+          </div>
+        </div>
       </LayoutOne>
     </Fragment>
   );

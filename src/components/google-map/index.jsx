@@ -10,7 +10,7 @@ const GoogleMap = ({
     return (
         <div style={{ height: '100%', width: '100%' }}>
             <GoogleMapReact
-                bootstrapURLKeys={{ key: "AIzaSyB2D8wrWMY3XZnuHO6C31uq90JiuaFzGws" }}
+                bootstrapURLKeys={{ key: "AIzaSyBNVGKvHr8B_iQqWvQmW_xvQ02AjZhZBMM" }}
                 defaultCenter={{lat, lng}}
                 defaultZoom={zoom}
             >
@@ -32,9 +32,9 @@ GoogleMap.propTypes = {
 }
 
 GoogleMap.defaultProps = {
-    lat: -3.745,
-    lng: -38.523,
-    zoom: 12,
+    lat: -7.4193895,
+    lng: 110.8155274,
+    zoom: 20,
 };
 
 export default GoogleMap;

@@ -7,7 +7,11 @@ import GoogleMap from "../../components/google-map"
 
 const Contact = () => {
   let { pathname } = useLocation();
-
+         const latitude = -7.5146406;
+  const longitude = 110.8060455;
+  const zoomLevel = 11;
+  
+  const mapUrl = `https://www.google.com/maps/search/?q=casaqeela&ll=${latitude},${longitude}&z=${zoomLevel}`;
   return (
     <Fragment>
       <SEO
@@ -25,7 +29,7 @@ const Contact = () => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <GoogleMap lat={47.444} lng={-122.176} />
+              <GoogleMap lat={ -7.4193895} lng={110.8155274} />
             </div>
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
@@ -35,8 +39,8 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+012 345 678 102</p>
-                      <p>+012 345 678 102</p>
+                      <p>+62 8122654863</p>
+                      <p>+62 8122654863</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -45,13 +49,13 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="mailto:yourname@email.com">
-                          yourname@email.com
+                        <a href="mailto:casaqeela@gmail.com">
+                          casaqeela@gmail.com
                         </a>
                       </p>
                       <p>
-                        <a href="https://yourwebsitename.com">
-                          yourwebsitename.com
+                        <a href="https://www.casaqeela.com">
+                          www.casaqeela.com
                         </a>
                       </p>
                     </div>
@@ -62,7 +66,7 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>Address goes here, </p>
-                      <p>street, Crossroad 123.</p>
+                      <p>Gemolong</p>
                     </div>
                   </div>
                   <div className="contact-social text-center">

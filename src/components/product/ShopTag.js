@@ -7,6 +7,18 @@ const ShopTag = ({ tags, getSortParams }) => {
     <div className="sidebar-widget mt-50">
       <h4 className="pro-sidebar-title">Tag </h4>
       <div className="sidebar-widget-tag mt-25">
+      <ul>    <li>
+             
+                <button
+                  onClick={e => {
+                    getSortParams("category", "");
+                    setActiveSort(e);
+                  }}
+                >
+                All Categories
+                </button>
+            
+            </li>  </ul>
         {tags ? (
           <ul>
             {tags.map((tag, key) => {

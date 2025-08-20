@@ -66,6 +66,7 @@ const ShopGridRightSidebar = lazy(() =>
   import("./pages/shop/ShopGridRightSidebar")
 );
 const ShopListStandard = lazy(() => import("./pages/shop/ShopListStandard"));
+
 const ShopListFullWidth = lazy(() => import("./pages/shop/ShopListFullWidth"));
 const ShopListTwoColumn = lazy(() => import("./pages/shop/ShopListTwoColumn"));
 
