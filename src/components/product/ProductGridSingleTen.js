@@ -57,73 +57,13 @@ const ProductGridSingleTen = ({
             )}
 
             <div className="product-action-2">
-              {product.affiliateLink ? (
-                <a
-                  href={product.affiliateLink}
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  title="Buy now"
-                >
-                  {" "}
-                  <i className="fa fa-shopping-cart"></i>{" "}
-                </a>
-              ) : product.variation && product.variation.length >= 1 ? (
-                <Link
-                  to={`${process.env.PUBLIC_URL}/product/${product.id}`}
-                  title="Select options"
-                >
-                  <i className="fa fa-cog"></i>
-                </Link>
-              ) : product.stock && product.stock > 0 ? (
-                <button
-                  onClick={() => dispatch(addToCart(product))}
-                  className={
-                    cartItem !== undefined && cartItem.quantity > 0
-                      ? "active"
-                      : ""
-                  }
-                  disabled={cartItem !== undefined && cartItem.quantity > 0}
-                  title={
-                    cartItem !== undefined ? "Added to cart" : "Add to cart"
-                  }
-                >
-                  {" "}
-                  <i className="fa fa-shopping-cart"></i>{" "}
-                </button>
-              ) : (
-                <button disabled className="active" title="Out of stock">
-                  <i className="fa fa-shopping-cart"></i>
-                </button>
-              )}
+             
 
               <button onClick={() => setModalShow(true)} title="Quick View">
                 <i className="fa fa-eye"></i>
               </button>
 
-              <button
-                className={compareItem !== undefined ? "active" : ""}
-                disabled={compareItem !== undefined}
-                title={
-                  compareItem !== undefined
-                    ? "Added to compare"
-                    : "Add to compare"
-                }
-                onClick={() => dispatch(addToCompare(product))}
-              >
-                <i className="fa fa-retweet"></i>
-              </button>
-              <button
-                className={wishlistItem !== undefined ? "active" : ""}
-                disabled={wishlistItem !== undefined}
-                title={
-                  wishlistItem !== undefined
-                    ? "Added to wishlist"
-                    : "Add to wishlist"
-                }
-                onClick={() => dispatch(addToWishlist(product))}
-              >
-                <i className="fa fa-heart-o" />
-              </button>
+            
             </div>
           </div>
           <div className="product-content-2">
@@ -134,18 +74,8 @@ const ProductGridSingleTen = ({
                 </Link>
               </h3>
               <div className="price-2">
-                {discountedPrice !== null ? (
-                  <Fragment>
-                    <span className="old">
-                      {currency.currencySymbol + finalProductPrice}
-                    </span>
-                    <span>
-                      {currency.currencySymbol + finalDiscountedPrice}
-                    </span>{" "}
-                  </Fragment>
-                ) : (
-                  <span>{currency.currencySymbol + finalProductPrice} </span>
-                )}
+             
+                 
               </div>
             </div>
           </div>

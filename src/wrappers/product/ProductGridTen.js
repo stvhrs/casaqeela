@@ -23,7 +23,7 @@ const ProductGridTen = ({
     <Fragment>
       {prods?.map((product) => {
         return (
-          <div className="col-md-6 col-lg-4 col-sm-6" key={product.id}>
+          <div className="col-6 col-md-6 col-lg-4 col-sm-6" key={product.id}>
             <ProductGridSingleTen
               spaceBottomClass={spaceBottomClass}
               colorClass={colorClass}

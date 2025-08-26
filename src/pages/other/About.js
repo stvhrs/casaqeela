@@ -24,12 +24,12 @@ const About = () => {
         />
 
 
-      <div class="image-gallery">
-  <img src="/assets/About Us-1.jpg" alt="Story" />
-  <img src="/assets/About Us-2.jpg" alt="Story" />
-  <img src="/assets/About Us-3.jpg" alt="Story" />
-  <img src="/assets/About Us-4.jpg" alt="Story" />
-</div>
+     
+<img src="/assets/About Us-1.jpg" style={{ width: '100%', height: 'auto', display: 'block' }} alt="" />
+  <img src="/assets/About Us-2.jpg" style={{ width: '100%', height: 'auto', display: 'block' }} alt="" />
+  <img src="/assets/About Us-3.jpg" style={{ width: '100%', height: 'auto', display: 'block' }} alt="" />
+  <img src="/assets/About Us-4.jpg" style={{ width: '100%', height: 'auto', display: 'block' }} alt="" />
+
         {/* story section */}
         <div className="story-container">
 {/* 
@@ -44,7 +44,7 @@ const About = () => {
             <a href="/our-commitments">Our commitments</a>
           </div>
           <div className="image-container">
-            <img src="/assets/about.jpg" alt="Story" />
+            <img src="/assets/about.jpg" style={{ width: '100%', height: 'auto', display: 'block' }} alt="" />
           </div> */}
         </div>
       </LayoutOne>

@@ -1,6 +1,7 @@
 import { Suspense, lazy } from "react";
 import ScrollToTop from "./helpers/scroll-top";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import FloatingWhatsAppButton from './wa';
 
 // home pages
 const HomeFashion = lazy(() => import("./pages/home/HomeFashion"));
@@ -399,6 +400,7 @@ const App = () => {
               <Route path="*" element={<NotFound/>} />
             </Routes>
           </Suspense>
+              <FloatingWhatsAppButton />
         </ScrollToTop>
       </Router>
   );

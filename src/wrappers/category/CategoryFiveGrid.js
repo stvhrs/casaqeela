@@ -8,7 +8,7 @@ const CategoryFiveGrid = ({ spaceBottomClass }) => {
       <div className="container">
         <div className="row">
           {categoryData?.map((single, key) => (
-            <div className="col-lg-4 col-md-6 mb-30" key={key}>
+            <div className="col-6 col-lg-3 col-md-6 mb-30" key={key}>
               <CategoryFiveSingle data={single} />
             </div>
           ))}
