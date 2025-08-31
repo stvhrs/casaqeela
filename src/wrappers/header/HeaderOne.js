@@ -32,7 +32,7 @@ const HeaderOne = ({
   };
 
   return (
-    <header style={{ backgroundColor: 'white' }}className={clsx("header-area clearfix", headerBgClass, headerPositionClass)}>
+    <header style={{ backgroundColor: 'white' }} className={clsx("header-area clearfix", headerBgClass, headerPositionClass)}>
       <div
         className={clsx(
           "header-top-area", 
@@ -53,17 +53,20 @@ const HeaderOne = ({
           scroll > headerTop && "stick"
         )}
       >
-        <div className={layout === "container-fluid" ? layout : "container" }>
-          <div className="row">
-            <div className="col-xl-2 col-lg-2 col-md-6 col-4">
+        <div className={layout === "container-fluid" ? layout : "container"}>
+          <div className="row align-items-center"> {/* Added align-items-center for vertical alignment */}
+            <div className="col-xl-2 col-lg-2 col-md-6 col-4 d-flex align-items-center"> {/* Align the logo */}
               {/* header logo */}
-              <Logo imageUrl="/assets/img/logo/logo.png" logoClass="logo" style={{ height: '20px' }}/>
+              <Logo imageUrl="/assets/img/logo/logo.png" logoClass="logo"/>
             </div>
-            <div className="col-xl-8 col-lg-8 d-none d-lg-block">
+            <div className="col-xl-8 col-lg-8 d-none d-lg-block d-flex align-items-center"> {/* Align the nav menu */}
               {/* Nav menu */}
               <NavMenu />
             </div>
-        
+            {/* Optionally add icon group here if needed */}
+            {/* <div className="col-xl-2 col-lg-2 col-md-6 col-4">
+              <IconGroup />
+            </div> */}
           </div>
         </div>
         {/* mobile menu */}

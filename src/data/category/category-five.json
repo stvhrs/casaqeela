@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "image": "/assets/kursi.jpg",
-    "title": "Kursi (06)",
+    "image": "/assets/Chair.png",
+    "title": "Kursi",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
-    "image": "/assets/lemari.jpg",
-    "title": "Lemari (10)",
+    "image": "/assets/Cupboard.png",
+    "title": "Lemari",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
-    "image": "/assets/aksesoris.jpg",
-    "title": "Aksesoris (06)",
+    "image": "/assets/Accs.png",
+    "title": "Aksesoris",
     "url": "/shop-grid-standard"
   },
   
   {
     "id": 4,
-    "image": "/assets/meja.jpg",
-    "title": "Meja (06)",
+    "image": "/assets/Table.png",
+    "title": "Meja",
     "url": "/shop-grid-standard"
   }
 ]

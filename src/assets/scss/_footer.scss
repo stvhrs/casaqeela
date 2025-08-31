@@ -2,39 +2,90 @@
 
 .copyright {
   .footer-logo {
+     margin-top: 8px;
+  margin-bottom:8px ;
+  
+  /* Perbesar logo di desktop */
+  img {
+    height: auto; /* Biarkan tinggi menyesuaikan proporsi */
+    max-height: 60px; /* Tinggi maksimal untuk desktop */
+    width: auto; /* Biarkan lebar menyesuaikan proporsi */
+  }
+  
+  @media #{$md-layout} {
+    margin-top: 0;
+    
+    /* Batasi tinggi logo di tablet */
+    img {
+      max-height: 30px; /* Tinggi maksimal 30px untuk tablet */
+      width: auto;
+    }
+  }
+  
+  @media #{$xs-layout} {
+    margin-top: 0;
+    
+    /* Batasi tinggi logo di mobile */
+    img {
+      max-height: 30px; /* Tinggi maksimal 30px untuk mobile */
+      width: auto;
+    }
+  }
+  
+  &.logo-hm5 {
     margin-top: 41px;
-    margin-bottom: 12px;
-    @media #{$xs-layout} {
-      margin-top: 0;
+    
+    /* Perbesar logo di desktop untuk logo-hm5 */
+    img {
+      height: auto;
+      max-height: 90px; /* Sedikit lebih besar untuk variant hm5 */
+      width: auto;
     }
-    @media #{$md-layout} {
-      margin-top: 0;
-    }
-    @media #{$lg-layout} {
-      margin-top: 28px;
-    }
-  }
-  p {
-    letter-spacing: 0.9px;
-
-    color: #313131;
-    a {
-      color: #313131;
-      &:hover {
-        color: $theme-color;
-      }
-    }
-  }
-  &.copyright-white {
-    p {
-      color: #fff;
-      a {
-        color: #fff;
-        &:hover {
-          color: $theme-color;
+    
+    a.sticky-block {
+      display: none;
+      
+      @media #{$md-layout, $xs-layout} {
+        display: block;
+        
+        /* Batasi tinggi logo sticky di tablet/mobile */
+        img {
+          max-height: 30px;
+          width: auto;
         }
       }
     }
+    
+    a.sticky-none {
+      display: block;
+      
+      @media #{$md-layout, $xs-layout} {
+        display: none;
+      }
+    }
+    
+    @media #{$md-layout} {
+      margin-top: 0;
+      text-align: left !important;
+      
+      /* Batasi tinggi logo di tablet untuk logo-hm5 */
+      img {
+        max-height: 30px;
+        width: auto;
+      }
+    }
+    
+    @media #{$xs-layout} {
+      margin-top: 0;
+      text-align: left !important;
+      
+      /* Batasi tinggi logo di mobile untuk logo-hm5 */
+      img {
+        max-height: 30px;
+        width: auto;
+      }
+    }
+  }
   }
 }
 

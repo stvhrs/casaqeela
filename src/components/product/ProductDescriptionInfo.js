@@ -42,7 +42,7 @@ const ProductDescriptionInfo = ({
       <h2>{product.name}</h2>
     
       <div className="pro-details-list">
-        <p>{product.shortDescription}</p>
+        <p dangerouslySetInnerHTML={{ __html: product.shortDescription }}></p>
       </div>
 
       {product.variation ? (

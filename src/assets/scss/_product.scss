@@ -4384,6 +4384,19 @@
 }
 
 .category-grid {
+  
+  // &:hover::after {
+  //     content: ''; 
+  //     position: absolute;
+  //     top: 0;
+  //     left: 0;
+  //     right: 0;
+  //     bottom: 0;
+  //     background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  //     z-index: 2; /* Place the gradient above the image */
+  //     transition: background 0.3s ease;
+    
+  // }
   aspect-ratio: 1/1;
   overflow: hidden;
   justify-content: center; 
@@ -4416,11 +4429,14 @@ display: block;
       margin: 0 auto;
       padding: 15px 15px;
       text-align: center;
-      color: #000;
-      background-color: #fff;
+     
+ background-color: #c57411;
+      color: #ffffff;
 
       &:hover {
-        background-color: #bca487;
+      color: #000;
+      background-color: #d6c2aa;
+
       }
     }
   }

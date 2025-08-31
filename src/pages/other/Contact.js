@@ -41,8 +41,13 @@ const Contact = () => {
                     <div className="contact-info-dec">
                      <p>
                       
-                        <a href="https://wa.me/628122654863">
-                    08122654863
+                        <a href="https://wa.me/6281325143663">
+                    +62 813-2514-3663 (Fadila)
+                        </a>
+                      </p>  <p>
+                      
+                        <a href="https://wa.me/6282243431717">
+                  +62 822-4343-1717 (Asnaun Novi)
                         </a>
                       </p>
                    
@@ -70,7 +75,16 @@ const Contact = () => {
                       <i className="fa fa-map-marker" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>Address goes here, </p>
+                      <p>Office & Workshop
+ </p>
+                      <p>Jl. Imam Bonjol Gg. 5, Kabayanan I, Kragilan, Kec. Gemolong, Kab. Sragen, Jawa Tengah, 57274</p>
+                    </div>
+                  </div> <div className="single-contact-info">
+                    <div className="contact-icon">
+                      <i className="fa fa-map-marker" />
+                    </div>
+                    <div className="contact-info-dec">
+                      <p>Workshop 1 </p>
                       <p>Jl. Solo - Purwodadi, Dusun II, Karangjati, Kec. Kalijambe, Kabupaten Sragen, Jawa Tengah 57275</p>
                     </div>
                   </div>
