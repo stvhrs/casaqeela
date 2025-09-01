@@ -4397,7 +4397,7 @@
   //     transition: background 0.3s ease;
     
   // }
-  aspect-ratio: 1/1;
+  aspect-ratio: 1/1.41;
   overflow: hidden;
   justify-content: center; 
 display: block;
@@ -4425,7 +4425,7 @@ display: block;
       font-size: 18px;
       font-weight: 400;
       display: block;
-      width: 80%;
+      width: 100%;
       margin: 0 auto;
       padding: 15px 15px;
       text-align: center;
