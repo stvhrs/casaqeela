@@ -2,26 +2,26 @@
   {
     "id": 1,
     "image": "/assets/Chair.png",
-    "title": "Kursi",
+    "title": "Chair",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
     "image": "/assets/Cupboard.png",
-    "title": "Lemari",
+    "title": "Cupboard",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
     "image": "/assets/Accs.png",
-    "title": "Aksesoris",
+    "title": "Accessories",
     "url": "/shop-grid-standard"
   },
   
   {
     "id": 4,
     "image": "/assets/Table.png",
-    "title": "Meja",
+    "title": "Table",
     "url": "/shop-grid-standard"
   }
 ]
