@@ -8,22 +8,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 10,
     "image": [
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-1.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-2.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-3.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-4.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-5.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-6.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-7.jpg",
-      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool-8.jpg"
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 1.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 2.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 3.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 4.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 5.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 6.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 7.jpg",
+      "/assets/kursi/Ahza Counter Stool/Ahza Counter Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Ahza Counter Stool<br />Ukuran: 48x45,5x73 cm<br />Material: Teak wood + natural rattan<br />Finishing natural",
     "fullDescription": "Nyaman digunakan untuk area kitchen counter atau bar",
@@ -41,22 +37,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/Atta Stool/Atta Stool-1.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-2.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-3.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-4.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-5.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-6.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-7.jpg",
-      "/assets/kursi/Atta Stool/Atta Stool-8.jpg"
+      "/assets/kursi/Atta Stool/Atta Stool - 1.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 2.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 3.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 4.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 5.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 6.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 7.jpg",
+      "/assets/kursi/Atta Stool/Atta Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Atta Stool<br />Ukuran: 39,5x41x63,5 cm<br />Material: Teak wood",
     "fullDescription": "Cocok untuk berbagai ruangan dan konsep interior",
@@ -74,22 +66,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 25,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 12,
     "image": [
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-1.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-2.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-3.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-4.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-5.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-6.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-7.jpg",
-      "/assets/kursi/Bahamas Stool/Bahamas Stool-8.jpg"
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 1.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 2.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 3.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 4.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 5.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 6.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 7.jpg",
+      "/assets/kursi/Bahamas Stool/Bahamas Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Bahamas Stool<br />Ukuran: 41x41x46,5 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Memberikan kesan santai seperti di pantai Bahamas",
@@ -107,22 +95,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 8,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 5,
     "image": [
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-1.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-2.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-3.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-4.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-5.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-6.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-7.jpg",
-      "/assets/kursi/Bonita Sofa/Bonita Sofa-8.jpg"
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 1.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 2.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 3.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 4.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 5.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 6.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 7.jpg",
+      "/assets/kursi/Bonita Sofa/Bonita Soda - 8.jpg"
     ],
     "shortDescription": "Nama: Bonita Sofa<br />Ukuran: 143x95x54 cm<br />Material: Teak wood + Upholster",
     "fullDescription": "Cocok untuk ruang tamu atau ruang keluarga",
@@ -140,22 +124,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 18,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-1.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-2.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-3.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-4.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-5.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-6.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-7.jpg",
-      "/assets/kursi/Camila Bar Chair/Camila Bar Chair-8.jpg"
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 1.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 2.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 3.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 4.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 5.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 6.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 7.jpg",
+      "/assets/kursi/Camila Bar Chair/Camila Bar - 8.jpg"
     ],
     "shortDescription": "Nama: Camila Bar Chair<br />Ukuran: 41,5x42x103,5 cm<br />Material: Teak wood + Natural Rattan",
     "fullDescription": "Tinggi yang pas untuk bar counter standar",
@@ -173,22 +153,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 22,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 9,
     "image": [
-      "/assets/kursi/Flowy Stool/Flowy Stool-1.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-2.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-3.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-4.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-5.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-6.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-7.jpg",
-      "/assets/kursi/Flowy Stool/Flowy Stool-8.jpg"
+      "/assets/kursi/Flowy Stool/Flowy - 1.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 2.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 3.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 4.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 5.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 6.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 7.jpg",
+      "/assets/kursi/Flowy Stool/Flowy - 8.jpg"
     ],
     "shortDescription": "Nama: Flowy Stool<br />Ukuran: 37x37x47 cm<br />Material: Teak wood",
     "fullDescription": "Memberikan kesan mengalir dan dinamis pada ruangan",
@@ -206,22 +182,18 @@
     "new": false,
     "rating": 3,
     "saleCount": 35,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 20,
     "image": [
-      "/assets/kursi/Folding Chair/Folding Chair-1.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-2.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-3.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-4.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-5.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-6.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-7.jpg",
-      "/assets/kursi/Folding Chair/Folding Chair-8.jpg"
+      "/assets/kursi/Folding Chair/Folding - 1.jpg",
+      "/assets/kursi/Folding Chair/Folding - 2.jpg",
+      "/assets/kursi/Folding Chair/Folding - 3.jpg",
+      "/assets/kursi/Folding Chair/Folding - 4.jpg",
+      "/assets/kursi/Folding Chair/Folding - 5.jpg",
+      "/assets/kursi/Folding Chair/Folding - 6.jpg",
+      "/assets/kursi/Folding Chair/Folding - 7.jpg",
+      "/assets/kursi/Folding Chair/Folding - 8.jpg"
     ],
     "shortDescription": "Nama: Folding Chair<br />Ukuran: 44,5x59x79 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Solusi tepat untuk kebutuhan kursi tambahan",
@@ -239,22 +211,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 12,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 6,
     "image": [
-      "/assets/kursi/Grandma Chair/Grandma Chair-1.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-2.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-3.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-4.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-5.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-6.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-7.jpg",
-      "/assets/kursi/Grandma Chair/Grandma Chair-8.jpg"
+      "/assets/kursi/Grandma Chair/Grandma - 1.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 2.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 3.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 4.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 5.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 6.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 7.jpg",
+      "/assets/kursi/Grandma Chair/Grandma - 8.jpg"
     ],
     "shortDescription": "Nama: Grandma Chair<br />Ukuran: 70x77x76,5 cm<br />Material: Teak wood + Natural rattan + upholster",
     "fullDescription": "Desain klasik yang memberikan kenyamanan maksimal",
@@ -272,22 +240,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 16,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 11,
     "image": [
-      "/assets/kursi/Hanan Chair/Hanan Chair-1.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-2.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-3.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-4.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-5.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-6.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-7.jpg",
-      "/assets/kursi/Hanan Chair/Hanan Chair-8.jpg"
+      "/assets/kursi/Hanan Chair/Hanan - 1.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 2.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 3.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 4.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 5.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 6.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 7.jpg",
+      "/assets/kursi/Hanan Chair/Hanan - 8.jpg"
     ],
     "shortDescription": "Nama: Hanan Chair<br />Ukuran: 54,5x53x78 cm<br />Material: Teak wood + synthetic",
     "fullDescription": "Ergonomis dan nyaman untuk aktivitas makan",
@@ -305,22 +269,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 19,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-1.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-2.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-3.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-4.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-5.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-6.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-7.jpg",
-      "/assets/kursi/Joy Bar Stool/Joy Bar Stool-8.jpg"
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 1.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 2.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 3.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 4.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 5.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 6.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 7.jpg",
+      "/assets/kursi/Joy Bar Stool/Joy Bar Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Joy Bar Stool<br />Ukuran: 50x40x65 cm<br />Material: Teak wood + Woven leather",
     "fullDescription": "Memberikan kesan menyenangkan untuk area bar",
@@ -330,6 +290,7 @@
     "aksesoris": false
   },
   {
+
     "id": "11",
     "sku": "KCH011",
     "name": "Kawaii Chair",
@@ -338,22 +299,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 24,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 10,
     "image": [
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-1.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-2.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-3.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-4.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-5.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-6.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-7.jpg",
-      "/assets/kursi/Kawaii Chair/Kawaii Chair-8.jpg"
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 1.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 2.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 3.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 4.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 5.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 6.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 7.jpg",
+      "/assets/kursi/Kawaii Chair/Kawaii Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Kawaii Chair<br />Ukuran: 55,5x54,5x75 cm<br />Material: Teak wood + Rattan + upholster",
     "fullDescription": "Inspirasi dari estetika Jepang yang lucu",
@@ -371,22 +328,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 17,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Koshi Stool/Koshi Stool-1.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-2.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-3.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-4.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-5.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-6.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-7.jpg",
-      "/assets/kursi/Koshi Stool/Koshi Stool-8.jpg"
+      "/assets/kursi/Koshi Stool/Koshi - 1.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 2.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 3.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 4.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 5.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 6.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 7.jpg",
+      "/assets/kursi/Koshi Stool/Koshi - 8.jpg"
     ],
     "shortDescription": "Nama: Koshi Stool<br />Ukuran: 40x40x41 cm<br />Material: Teak Wood + Rattan Woven",
     "fullDescription": "Desain yang seimbang dan harmonis",
@@ -404,22 +357,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 10,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 5,
     "image": [
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-1.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-2.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-3.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-4.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-5.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-6.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-7.jpg",
-      "/assets/kursi/Laksmi Side Table/Laksmi Side Table-8.jpg"
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 1.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 2.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 3.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 4.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 5.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 6.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 7.jpg",
+      "/assets/kursi/Laksmi Side Table/Laksmi Side Table - 8.jpg"
     ],
     "shortDescription": "Nama: Laksmi Side Table<br />Ukuran: 40x40x45 cm<br />Material: Teak wood",
     "fullDescription": "Cocok untuk ditempatkan di samping sofa atau tempat tidur",
@@ -437,22 +386,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 14,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 9,
     "image": [
-      "/assets/kursi/Lanza Stool/Lanza Stool-1.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-2.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-3.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-4.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-5.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-6.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-7.jpg",
-      "/assets/kursi/Lanza Stool/Lanza Stool-8.jpg"
+      "/assets/kursi/Lanza Stool/Lanza Stool - 1.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 2.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 3.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 4.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 5.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 6.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 7.jpg",
+      "/assets/kursi/Lanza Stool/Lanza Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Lanzo Stool<br />Ukuran: 35x35x50 cm<br />Material: Teak wood + natural rattan",
     "fullDescription": "Cocok untuk berbagai konsep interior",
@@ -463,29 +408,24 @@
   },
   {
     "id": "15",
-    "sku": "LCH015",
+    "sku": "LCH015x",
     "name": "Levine Chair",
     "price": 75.0,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 11,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 6,
     "image": [
-      "/assets/kursi/Levine Chair/Levine Chair-1.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-2.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-3.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-4.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-5.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-6.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-7.jpg",
-      "/assets/kursi/Levine Chair/Levine Chair-8.jpg"
+      "/assets/kursi/Levine Chair/Levine Chair - 2.jpg",
+
+      "/assets/kursi/Levine Chair/Levine Chair - 1.jpg",
+      "/assets/kursi/Levine Chair/Levine Chair - 3.jpg",
+      "/assets/kursi/Levine Chair/Levine Chair - 4.jpg",
+      "/assets/kursi/Levine Chair/Levine Chair - 5.jpg"
+
     ],
     "shortDescription": "Nama: Levine Chair<br />Ukuran: 49x44x78,5 cm<br />Material: Teak wood + Rattan",
     "fullDescription": "Nyaman dan stylish untuk ruang makan",
@@ -503,22 +443,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 13,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/LM Chair/LM Chair-1.jpg",
-      "/assets/kursi/LM Chair/LM Chair-2.jpg",
-      "/assets/kursi/LM Chair/LM Chair-3.jpg",
-      "/assets/kursi/LM Chair/LM Chair-4.jpg",
-      "/assets/kursi/LM Chair/LM Chair-5.jpg",
-      "/assets/kursi/LM Chair/LM Chair-6.jpg",
-      "/assets/kursi/LM Chair/LM Chair-7.jpg",
-      "/assets/kursi/LM Chair/LM Chair-8.jpg"
+      "/assets/kursi/LM Chair/LM Chair - 1.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 2.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 3.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 4.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 5.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 6.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 7.jpg",
+      "/assets/kursi/LM Chair/LM Chair - 8.jpg"
     ],
     "shortDescription": "Nama: LM Chair<br />Ukuran: 50x50x83 cm<br />Material: Mindi Wood + Synthetic",
     "fullDescription": "Cocok untuk berbagai konsep interior modern",
@@ -527,39 +463,7 @@
     "kursi": true,
     "aksesoris": false
   },
-  {
-    "id": "17",
-    "sku": "LCH017",
-    "name": "Lounger Chair",
-    "price": 120.0,
-    "discount": 0,
-    "new": false,
-    "rating": 5,
-    "saleCount": 9,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
-    "stock": 4,
-    "image": [
-      "/assets/kursi/Lounger Chair/Lounger Chair-1.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-2.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-3.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-4.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-5.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-6.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-7.jpg",
-      "/assets/kursi/Lounger Chair/Lounger Chair-8.jpg"
-    ],
-    "shortDescription": "Nama: Lounger Chair<br />Ukuran: 160x60x80<br />Material: Teak wood + Synthetic Rattan",
-    "fullDescription": "Desain ergonomis untuk kenyamanan maksimal",
-    "meja": false,
-    "lemari": false,
-    "kursi": true,
-    "aksesoris": false
-  },
+  
   {
     "id": "18",
     "sku": "MST018",
@@ -569,22 +473,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 16,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 10,
     "image": [
-      "/assets/kursi/Manika Stool/Manika Stool-1.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-2.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-3.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-4.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-5.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-6.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-7.jpg",
-      "/assets/kursi/Manika Stool/Manika Stool-8.jpg"
+      "/assets/kursi/Manika Stool/Manika - 1.jpg",
+      "/assets/kursi/Manika Stool/Manika - 2.jpg",
+      "/assets/kursi/Manika Stool/Manika - 3.jpg",
+      "/assets/kursi/Manika Stool/Manika - 4.jpg",
+      "/assets/kursi/Manika Stool/Manika - 5.jpg",
+      "/assets/kursi/Manika Stool/Manika - 6.jpg",
+      "/assets/kursi/Manika Stool/Manika - 7.jpg",
+      "/assets/kursi/Manika Stool/Manika - 8.jpg"
     ],
     "shortDescription": "Nama: Manika Stool<br />Ukuran: 53x35x64 cm<br />Material: Teak Wood + Synthetic Rattan",
     "fullDescription": "Cocok untuk ruang terbatas namun tetap stylish",
@@ -602,22 +502,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 18,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-1.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-2.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-3.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-4.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-5.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-6.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-7.jpg",
-      "/assets/kursi/Mume Counter Stool/Mume Counter Stool-8.jpg"
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 1.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 2.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 3.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 4.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 5.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 6.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 7.jpg",
+      "/assets/kursi/Mume Counter Stool/Mume Counter Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Mume Counter Stool<br />Ukuran: 53,5x34,5x75 cm<br />Material: Teak wood, finishing black color",
     "fullDescription": "Tinggi yang sesuai untuk kitchen counter",
@@ -635,22 +531,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 9,
     "image": [
-      "/assets/kursi/Naya Chair/Naya Chair-1.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-2.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-3.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-4.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-5.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-6.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-7.jpg",
-      "/assets/kursi/Naya Chair/Naya Chair-8.jpg"
+      "/assets/kursi/Naya Chair/Naya Chair - 1.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 2.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 3.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 4.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 5.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 6.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 7.jpg",
+      "/assets/kursi/Naya Chair/Naya Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Naya Chair<br />Ukuran: 42x50x80 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Memberikan nuansa baru pada ruang makan",
@@ -668,22 +560,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 17,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/Naya Stool/Naya Stool-1.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-2.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-3.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-4.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-5.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-6.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-7.jpg",
-      "/assets/kursi/Naya Stool/Naya Stool-8.jpg"
+      "/assets/kursi/Naya Stool/Naya Stool - 1.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 2.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 3.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 4.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 5.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 6.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 7.jpg",
+      "/assets/kursi/Naya Stool/Naya Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Naya Stool<br />Ukuran: 35x35x46 cm<br />Material: Teak wood",
     "fullDescription": "Inovasi terbaru dalam desain stool modern",
@@ -701,22 +589,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 14,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Neya Chair/Neya Chair-1.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-2.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-3.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-4.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-5.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-6.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-7.jpg",
-      "/assets/kursi/Neya Chair/Neya Chair-8.jpg"
+      "/assets/kursi/Neya Chair/Neya Chair - 1.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 2.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 3.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 4.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 5.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 6.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 7.jpg",
+      "/assets/kursi/Neya Chair/Neya Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Neya Chair<br />Ukuran: 42x50x80 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Menggabungkan kenyamanan dan gaya terkini",
@@ -734,22 +618,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 21,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 11,
     "image": [
-      "/assets/kursi/Nice Stool/Nice Stool-1.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-2.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-3.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-4.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-5.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-6.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-7.jpg",
-      "/assets/kursi/Nice Stool/Nice Stool-8.jpg"
+      "/assets/kursi/Nice Stool/Nice Stool - 1.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 2.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 3.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 4.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 5.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 6.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 7.jpg",
+      "/assets/kursi/Nice Stool/Nice Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Nice Stool<br />Ukuran: 42x46x38 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Pilihan tepat untuk tambahan seating yang stylish",
@@ -767,22 +647,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 12,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 6,
     "image": [
-      "/assets/kursi/NR Chair/NR Chair-1.jpg",
-      "/assets/kursi/NR Chair/NR Chair-2.jpg",
-      "/assets/kursi/NR Chair/NR Chair-3.jpg",
-      "/assets/kursi/NR Chair/NR Chair-4.jpg",
-      "/assets/kursi/NR Chair/NR Chair-5.jpg",
-      "/assets/kursi/NR Chair/NR Chair-6.jpg",
-      "/assets/kursi/NR Chair/NR Chair-7.jpg",
-      "/assets/kursi/NR Chair/NR Chair-8.jpg"
+      "/assets/kursi/NR Chair/NR Chair - 1.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 2.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 3.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 4.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 5.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 6.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 7.jpg",
+      "/assets/kursi/NR Chair/NR Chair - 8.jpg"
     ],
     "shortDescription": "Nama: NR Chair<br />Ukuran: 50x50x83 cm<br />Material: Mindi Wood + Woven leather",
     "fullDescription": "Inovasi dalam kenyamanan and estetika",
@@ -800,22 +676,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 16,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 5,
     "image": [
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-1.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-2.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-3.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-4.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-5.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-6.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-7.jpg",
-      "/assets/kursi/Orion Bar Stool/Orion Bar Stool-8.jpg"
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 1.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 2.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 3.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 4.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 5.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 6.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 7.jpg",
+      "/assets/kursi/Orion Bar Stool/Orion Bar Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Orion Bar Stool<br />Ukuran: 31x31x75 cm<br />Material: Teak wood + iron leg",
     "fullDescription": "Desain futuristik seperti konstelasi Orion",
@@ -833,22 +705,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 8,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 4,
     "image": [
-      "/assets/kursi/Pajama Chair/Pajama Chair-1.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-2.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-3.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-4.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-5.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-6.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-7.jpg",
-      "/assets/kursi/Pajama Chair/Pajama Chair-8.jpg"
+      "/assets/kursi/Pajama Chair/Pajama Chair - 1.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 2.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 3.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 4.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 5.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 6.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 7.jpg",
+      "/assets/kursi/Pajama Chair/Pajama Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Pajama Chair<br />Ukuran: 51,5x56x72 cm<br />Material: Teak Wood + Synthetic Rattan",
     "fullDescription": "Kenyamanan maksimal untuk bersantai",
@@ -866,22 +734,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 13,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Rafa Chair/Rafa Chair-1.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-2.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-3.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-4.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-5.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-6.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-7.jpg",
-      "/assets/kursi/Rafa Chair/Rafa Chair-8.jpg"
+      "/assets/kursi/Rafa Chair/Rafa Chair - 1.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 2.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 3.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 4.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 5.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 6.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 7.jpg",
+      "/assets/kursi/Rafa Chair/Rafa Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Rafa Chair<br />Ukuran: 45x53,5x81 cm<br />Material: Teak wood + Woven Rope Lum",
     "fullDescription": "Memberikan sentuhan mewah pada ruang makan",
@@ -899,22 +763,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 19,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/Rana Stool/Rana Stool-1.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-2.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-3.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-4.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-5.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-6.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-7.jpg",
-      "/assets/kursi/Rana Stool/Rana Stool-8.jpg"
+      "/assets/kursi/Rana Stool/Rana Stool - 1.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 2.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 3.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 4.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 5.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 6.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 7.jpg",
+      "/assets/kursi/Rana Stool/Rana Stool - 8.jpg"
     ],
     "shortDescription": "Nama: Rana Stool<br />Ukuran: 40x40x46 cm<br />Material: Branch + Rope Syntetic",
     "fullDescription": "Inspirasi dari alam yang menyegarkan",
@@ -932,22 +792,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 7,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 3,
     "image": [
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-1.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-2.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-3.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-4.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-5.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-6.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-7.jpg",
-      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair-8.jpg"
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 1.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 2.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 3.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 4.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 5.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 6.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 7.jpg",
+      "/assets/kursi/Roma Lazy Chair/Roma Lazy Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Roma Lazy Chair<br />Ukuran: 56x56x89 cm<br />Material: Teak wood + leather",
     "fullDescription": "Kenyamanan maksimal untuk bersantai seharian",
@@ -965,22 +821,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 14,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 9,
     "image": [
-      "/assets/kursi/Rus Chair/Rus Chair-1.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-2.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-3.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-4.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-5.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-6.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-7.jpg",
-      "/assets/kursi/Rus Chair/Rus Chair-8.jpg"
+      "/assets/kursi/Rus Chair/Rus Chair - 1.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 2.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 3.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 4.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 5.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 6.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 7.jpg",
+      "/assets/kursi/Rus Chair/Rus Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Rus Chair<br />Ukuran: 62x54x65 cm (pxlxt)<br />Material: Teak wood",
     "fullDescription": "Dibangun dengan struktur yang kokoh dan tahan lama",
@@ -998,22 +850,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 23,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 12,
     "image": [
-      "/assets/kursi/Stool X/Stool X-1.jpg",
-      "/assets/kursi/Stool X/Stool X-2.jpg",
-      "/assets/kursi/Stool X/Stool X-3.jpg",
-      "/assets/kursi/Stool X/Stool X-4.jpg",
-      "/assets/kursi/Stool X/Stool X-5.jpg",
-      "/assets/kursi/Stool X/Stool X-6.jpg",
-      "/assets/kursi/Stool X/Stool X-7.jpg",
-      "/assets/kursi/Stool X/Stool X-8.jpg"
+      "/assets/kursi/Stool X/Stool X - 1.jpg",
+      "/assets/kursi/Stool X/Stool X - 2.jpg",
+      "/assets/kursi/Stool X/Stool X - 3.jpg",
+      "/assets/kursi/Stool X/Stool X - 4.jpg",
+      "/assets/kursi/Stool X/Stool X - 5.jpg",
+      "/assets/kursi/Stool X/Stool X - 6.jpg",
+      "/assets/kursi/Stool X/Stool X - 7.jpg",
+      "/assets/kursi/Stool X/Stool X - 8.jpg"
     ],
     "shortDescription": "Nama: Stool X<br />Ukuran: 45x45,<br />3x43 cm<br />Material: Teak Wood + Natural Rattan",
     "fullDescription": "Desain X memberikan kesan modern dan misterius",
@@ -1025,31 +873,27 @@
   {
     "id": "32",
     "sku": "SXH032",
-    "name": "Stool X Hitam",
+    "name": "Stool X Black",
     "price": 35.0,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 10,
     "image": [
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-1.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-2.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-3.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-4.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-5.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-6.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-7.jpg",
-      "/assets/kursi/Stool X Hitam/Stool X Hitam-8.jpg"
+      "/assets/kursi/Stool X Hitam/Stool X Black - 1.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 2.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 3.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 4.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 5.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 6.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 7.jpg",
+      "/assets/kursi/Stool X Hitam/Stool X Black - 8.jpg"
     ],
     "shortDescription": "Nama: Stool X<br />Ukuran: 45x45,3x43 cm<br />Material: Teak Wood + Natural Rattan",
-    "fullDescription": "Warna hitam memberikan kesan lebih elegan dan misterius",
+    "fullDescription": "Warna Black memberikan kesan lebih elegan dan misterius",
     "meja": false,
     "lemari": false,
     "kursi": true,
@@ -1064,22 +908,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 15,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 6,
     "image": [
-      "/assets/kursi/Subha Chair/Subha Chair-1.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-2.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-3.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-4.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-5.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-6.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-7.jpg",
-      "/assets/kursi/Subha Chair/Subha Chair-8.jpg"
+      "/assets/kursi/Subha Chair/Subha Chair - 1.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 2.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 3.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 4.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 5.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 6.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 7.jpg",
+      "/assets/kursi/Subha Chair/Subha Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Subha Chair<br />Ukuran: 51x46,5x78,5 cm<br />Material: Teak wood + natural rattan",
     "fullDescription": "Desain yang indah dan penuh makna",
@@ -1097,22 +937,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 11,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 7,
     "image": [
-      "/assets/kursi/Taka Chair/Taka Chair-1.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-2.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-3.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-4.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-5.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-6.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-7.jpg",
-      "/assets/kursi/Taka Chair/Taka Chair-8.jpg"
+      "/assets/kursi/Taka Chair/Taka Chair - 1.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 2.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 3.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 4.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 5.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 6.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 7.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Taka Chair<br />Ukuran: 44x50x86,5 cm<br />Material: Teak wood",
     "fullDescription": "Kualitas premium dengan harga yang terjangkau",
@@ -1130,22 +966,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 9,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 15,
     "image": [
-      "/assets/kursi/Teak Wood/Teak Wood-1.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-2.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-3.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-4.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-5.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-6.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-7.jpg",
-      "/assets/kursi/Teak Wood/Teak Wood-8.jpg"
+      "/assets/kursi/Teak Wood/Teak Wood - 1.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 2.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 3.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 4.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 5.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 6.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 7.jpg",
+      "/assets/kursi/Teak Wood/Teak Wood - 8.jpg"
     ],
     "shortDescription": "Nama: Teakyard Stool<br />Ukuran: 39x44x60 cm<br />Material: Teak wood",
     "fullDescription": "Kayu jati pilihan dengan kualitas terbaik untuk berbagai keperluan",
@@ -1157,30 +989,26 @@
   {
     "id": "36",
     "sku": "TCH036",
-    "name": "Tera Chair",
+    "name": "Taka Chair",
     "price": 69.0,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 13,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 5,
     "image": [
-      "/assets/kursi/Tera Chair/Tera Chair-1.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-2.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-3.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-4.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-5.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-6.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-7.jpg",
-      "/assets/kursi/Tera Chair/Tera Chair-8.jpg"
+      "/assets/kursi/Taka Chair/Taka Chair - 1.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 2.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 3.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 4.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 5.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 6.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 7.jpg",
+      "/assets/kursi/Taka Chair/Taka Chair - 8.jpg"
     ],
-    "shortDescription": "Nama: Tera Chair<br />Ukuran: 62x62x85 cm<br />Material: Teak wood + Rope Synthetic",
+    "shortDescription": "Nama: Taka Chair<br />Ukuran: 62x62x85 cm<br />Material: Teak wood + Rope Synthetic",
     "fullDescription": "Desain kuat dan kokoh seperti sebuah monumen",
     "meja": false,
     "lemari": false,
@@ -1196,22 +1024,18 @@
     "new": false,
     "rating": 4,
     "saleCount": 10,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 6,
     "image": [
-      "/assets/kursi/Tut Chair/Tut Chair-1.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-2.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-3.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-4.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-5.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-6.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-7.jpg",
-      "/assets/kursi/Tut Chair/Tut Chair-8.jpg"
+      "/assets/kursi/Tut Chair/Tut Chair - 1.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 2.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 3.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 4.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 5.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 6.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 7.jpg",
+      "/assets/kursi/Tut Chair/Tut Chair - 8.jpg"
     ],
     "shortDescription": "Nama: Tut Chair<br />Ukuran: 39x47x90 cm<br />Material: Teak wood + Upholster",
     "fullDescription": "Desain yang terinspirasi dari kekayaan budaya Mesir kuno",
@@ -1229,22 +1053,18 @@
     "new": false,
     "rating": 5,
     "saleCount": 14,
-    "category": [
-      "kursi"
-    ],
-    "tag": [
-      "kursi"
-    ],
+    "category": ["kursi"],
+    "tag": ["kursi"],
     "stock": 8,
     "image": [
-      "/assets/kursi/Zloty Chair/Zloty Chair-1.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-2.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-3.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-4.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-5.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-6.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-7.jpg",
-      "/assets/kursi/Zloty Chair/Zloty Chair-8.jpg"
+      "/assets/kursi/Zloty Chair/Zloty - 1.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 2.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 3.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 4.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 5.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 6.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 7.jpg",
+      "/assets/kursi/Zloty Chair/Zloty - 8.jpg"
     ],
     "shortDescription": "Nama: Zloty Chair<br />Ukuran: 46x50x83 cm<br />Material: Webbing seat",
     "fullDescription": "Desain mewah dan berkelas seperti mata uang berharga",
@@ -1710,7 +1530,7 @@
     "sku": "BLOL055",
     "name": "Bloom L",
     "price": 45.0,
-    "discount": 10,
+    "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 7,
