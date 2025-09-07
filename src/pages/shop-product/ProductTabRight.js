@@ -16,7 +16,7 @@ const ProductTabRight = () => {
 
   return (
     <Fragment>
-      <SEO
+      
         titleTemplate="Product Page"
         description="Product page of casaqeela react minimalist eCommerce template."
       />

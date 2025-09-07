@@ -1,7 +1,7 @@
 import React from 'react';
 
 const FloatingWhatsAppButton = () => {
-  const waNumber = '628122654863';
+  const waNumber = '6282243431717';
   const waLink = `https://wa.me/${waNumber}`;
 
   const styleButton = {
