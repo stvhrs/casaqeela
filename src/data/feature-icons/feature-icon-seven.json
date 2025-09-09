@@ -3,18 +3,18 @@
     "id": 1,
     "image": "/assets/img/icon-img/support-1.png",
     "title": "Free Shipping",
-    "subtitle": "Nikmati Pengiriman Gratis  "
+    "subtitle": "Enjoy free delivery to selected areas"
   },
   {
     "id": 2,
     "image": "/assets/img/icon-img/support-11.png",
-    "title": "Support 24/7",
-    "subtitle": "Tim layanan pelanggan kami siap membantu Anda kapan saja"
+    "title": "Customer Service",
+    "subtitle": "We’re ready to assist you during business hours"
   },
   {
     "id": 3,
     "image": "/assets/img/icon-img/support-12.png",
-    "title": "Money Return",
-    "subtitle": "Kami menawarkan kebijakan pengembalian uang dengan syarat dan ketentuan yang jelas"
+    "title": "Money Back Guarantee",
+    "subtitle": "We provide repair assistance for furniture under warranty"
   }
 ]

@@ -120,7 +120,7 @@ const ProductDescriptionInfo = ({
           <div className="pro-details-cart btn-hover">
             {productStock && productStock > 0 ? (
               <button
-  onClick={() => window.open("https://wa.me/628122654863", "_blank", "noopener,noreferrer")}
+  onClick={() => window.open("https://wa.me/6282243431717", "_blank", "noopener,noreferrer")}
 >
   Chat Whatsapp
 </button>

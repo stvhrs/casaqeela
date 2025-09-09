@@ -30,21 +30,21 @@ const TabProductNineteen = ({
           >
             <Nav.Item>
               <Nav.Link eventKey="meja">
-                <h4>Meja</h4>
+                <h4>Table</h4>
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="kursi">
-                <h4>Kursi</h4>
+                <h4>Chair</h4>
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="aksesoris">
-                <h4>Aksesoris</h4>
+                <h4>Accessory</h4>
               </Nav.Link>
             </Nav.Item> <Nav.Item>
               <Nav.Link eventKey="lemari">
-                <h4>Lemari</h4>
+                <h4>Cupboard</h4>
               </Nav.Link>
             </Nav.Item>
           </Nav>
